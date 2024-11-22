@@ -9,6 +9,8 @@
 | Company      | Title                       | Location         | Team                                  | Start   | End     |
 | :----------- | :-------------------------- | :--------------- | :------------------------------------ | :-----: | :-----: |
 | TVA          | Software Developer B        | Knoxville, TN    | Land, Property, Vegetation Management | 08/2022 | CURRENT |
+| Key Accomplishment                                                                                                        |
+| Deployed a **JSP** web application to **Azure App Services** with **RESTful** integrations to internal systems.           |
 | (Sabbatical) | (Teacher, tutor, developer) | Independence, KY |                                       | 06/2020 | 08/2022 |
 | TQL          | Software Developer II       | Cincinnati, OH   | Load Management                       | 10/2018 | 06/2020 |
 | Fidelity     | Software Engineer A         | Taylor Mill, KY  | Inbound                               | 07/2015 | 10/2018 |
