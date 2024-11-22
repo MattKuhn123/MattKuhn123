@@ -6,12 +6,12 @@
 
 ### Experience
 
-| Company      | Title                 | Location         | Team                                  | Start   | End     |
-| :----------- | :-------------------- | :--------------- | :------------------------------------ | :-----: | :-----: |
-| TVA          | Software Developer B  | Knoxville, TN    | Land, Property, Vegetation Management | 08/2022 | CURRENT |
-| (Sabbatical) | (Teacher, tutor)      | Independence, KY |                                       | 06/2020 | 08/2022 |
-| TQL          | Software Developer II | Cincinnati, OH   | Load Management                       | 10/2018 | 06/2020 |
-| Fidelity     | Software Engineer A   | Taylor Mill, KY  | Inbound                               | 07/2015 | 10/2018 |
+| Company      | Title                       | Location         | Team                                  | Start   | End     |
+| :----------- | :-------------------------- | :--------------- | :------------------------------------ | :-----: | :-----: |
+| TVA          | Software Developer B        | Knoxville, TN    | Land, Property, Vegetation Management | 08/2022 | CURRENT |
+| (Sabbatical) | (Teacher, tutor, developer) | Independence, KY |                                       | 06/2020 | 08/2022 |
+| TQL          | Software Developer II       | Cincinnati, OH   | Load Management                       | 10/2018 | 06/2020 |
+| Fidelity     | Software Engineer A         | Taylor Mill, KY  | Inbound                               | 07/2015 | 10/2018 |
 
 ### Key Accomplishments
 
