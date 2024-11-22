@@ -15,7 +15,7 @@
 
 ### Key Accomplishments
 
-- **(TVA):** Deployed a **JSP** web application to Azure App Services with **RESTful** integrations to internal systems.
+- **(TVA):** Deployed a **JSP** web application to **Azure App Services** with **RESTful** integrations to internal systems.
 - **(Sabbatical):** Deployed a video game built with **C#** and the Unity game engine to an online store front.
 - **(TQL):** Deployed an **Angular/.NET** web application with a **RabbitMQ** event-driven architecture and **SQL Server** integrations.
 - **(Fidelity):** Deployed an **Angular/Node** application to replace a Java Applet with **RESTful** integrations to internal systems.
