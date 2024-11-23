@@ -15,15 +15,15 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Company  | Summary                      | Role | Task                 | Features                            | Stack                                  | Host    |
-| -------- | ---------------------------- | ---- | -------------------- | ----------------------------------- | -------------------------------------- | ------- |
-| TVA      | permitting web application   | Sr   | modernize & recreate | External (public), MFA, geolocation | JavaScript + JSP + TRIRIGA             | Azure   |
-| TVA      | data-entry web application   | Sr   | modernize & recreate | PWA (offline capable), MFA          | Angular + .NET + Oracle                | Azure   |
-| (Self)   | 2D video game                | Solo | design & create      | Shoot-em-up gameplay, spaceships    | C#                                     |         |
-| TQL      | real-time web application    | Mid  | design & create      | Websockets, events                  | Angular + .NET + RabbitMQ + SQL Server | On-prem |
-| TQL      | enterprise resource planning | Jr   | maintain & enhance   | Manage brokerage teams & accounts   | Windows forms + SQL Server             | On-prem |
-| Fidelity | portal web application       | Jr   | design & create      | Document upload, REST webservices   | Angular + Node + Oracle                | AWS     |
-| Fidelity | data-entry application       | Jr   | maintain & enhance   | XML-based workflow rules engine     | Java swing + Oracle                    | On-prem |
+| Company  | Summarization      | Role | Task        | Unique Features            | Stack                       | Host    |
+| -------- | ------------------ | ---- | ----------- | -------------------------- | --------------------------- | ------- |
+| TVA      | permitting web app | Sr   | modernize   | External, MFA, map picker  | JavaScript + JSP + REST     | Azure   |
+| TVA      | data-entry web app | Sr   | modernize   | PWA, MFA                   | Angular + .NET + Oracle     | Azure   |
+| (Self)   | 2D video game      | Solo | create      | Shoot-em-up gameplay       | C#                          |         |
+| TQL      | real-time web app  | Mid  | create      | Websockets, events         | Angular + .NET + SqlServer  | On-prem |
+| TQL      | ERP                | Jr   | enhance     | Manage brokerage accounts  | Windows forms + SqlServer   | On-prem |
+| Fidelity | portal web app     | Jr   | create      | Document upload, REST      | Angular + Node + Oracle     | AWS     |
+| Fidelity | data-entry app     | Jr   | enhance     | XML-based workflow engine  | Java + Oracle               | On-prem |
 
 ### Familiar frameworks
 
@@ -40,19 +40,16 @@ To make your life easier with reliable software.
 | Web API    | Java       | Spring            |
 | Web API    | Node       | Express           |
 
-### Favorite stacks
+### Familiar cloud services
 
-### Toy stack
-
-| Client | Server | Database |
-| ------ | ------ | -------- |
-| HTMX   | PHP    | MySql    |
-
-### Enterprise stack
-
-| Client  | Server | Database   |
-| ------- | ------ | ---------- |
-| Angular | .NET   | SQL Server |
+| Host  | Service      | Purpose              |
+| ----- | ------------ | -------------------- |
+| AWS   | EC2          | Web server           |
+| AWS   | Lambda       | Stateless processing |
+| AWS   | S3           | Storage              |
+| Azure | App Services | Web server           |
+| Azure | App Insights | Monitoring           |
+| Azure | Key Vault    | Secrets              |
 
 ### Skills
 
@@ -60,5 +57,22 @@ To make your life easier with reliable software.
 - Pipelines & devops
 - Clean architecture
 - Pair programming
-- Modernization
+- Refactoring, optimization & modernization
 - Learning & adapting
+
+### Other tools
+
+- Git
+- Azure DevOps
+- Docker
+- Tomcat
+- IIS
+- Visual Studio
+- VS Code
+
+### Favorite stacks
+
+|            | Client            | Server      | Database   |
+| ---------- | ----------------- | ----------- | ---------- |
+| toy        | Vanilla JS + HTMX | Vanilla PHP | MySql      |
+| enterprise | Angular           | .NET        | SQL Server |
