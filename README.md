@@ -17,7 +17,7 @@
 | -------- | ----------------------------- | ---------------------------- | --------------------------------- | ---------------------------------------- | ------- |
 | TVA      | permitting web application    | Lead, re-design & create     | Document upload, map integration  | JavaScript + JSP + TRIRIGA (IBM product) | Azure   |
 | TVA      | data-entry web application    | Senior, re-design & create   | PWA (offline capable)             | Angular + .NET + Oracle                  | Azure   |
-| (Self)   | published 2D video game       | Solo, design & create        | Shoot-em-up gameplay, spaceships  | C#                                       |         |
+| (Self)   | 2D video game                 | Solo, design & create        | Shoot-em-up gameplay, spaceships  | C#                                       |         |
 | TQL      | real-time web application     | Mid, design & create         | Websockets, Events                | Angular + .NET + RabbitMQ + SQL Server   | On-prem |
 | TQL      | enterprise resource planning  | Junior, maintenance          | Manage brokerage teams & accounts | Windows forms + SQL Server               | On-prem |
 | Fidelity | portal web application        | Junior, design & create      | Document upload, REST webservices | Angular + Node + Oracle                  | AWS     |
