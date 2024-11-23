@@ -13,21 +13,52 @@ To make your life easier with reliable software.
 | TQL          | Software Developer II       | Cincinnati, OH   | Load Management                       | 10/2018 | 06/2020 |
 | Fidelity     | Software Engineer A         | Taylor Mill, KY  | Inbound Mail                          | 07/2015 | 10/2018 |
 
-### Key Accomplishments
+### Key accomplishments
 
-| Company  | Summary                       | Role                         | Features                          | Stack                                    | Host    |
-| -------- | ----------------------------- | ---------------------------- | --------------------------------- | ---------------------------------------- | ------- |
-| TVA      | permitting web application    | Lead, re-design & create     | Document upload, map integration  | JavaScript + JSP + TRIRIGA (IBM product) | Azure   |
-| TVA      | data-entry web application    | Senior, re-design & create   | PWA (offline capable)             | Angular + .NET + Oracle                  | Azure   |
-| (Self)   | 2D video game                 | Solo, design & create        | Shoot-em-up gameplay, spaceships  | C#                                       |         |
-| TQL      | real-time web application     | Mid, design & create         | Websockets, Events                | Angular + .NET + RabbitMQ + SQL Server   | On-prem |
-| TQL      | enterprise resource planning  | Junior, maintenance          | Manage brokerage teams & accounts | Windows forms + SQL Server               | On-prem |
-| Fidelity | portal web application        | Junior, design & create      | Document upload, REST webservices | Angular + Node + Oracle                  | AWS     |
-| Fidelity | data-entry application        | Junior, maintenace           | XML-based workflow rules engine   | Java SWING + Oracle                      | On-prem |
+| Company  | Summary                      | Role | Task                 | Features                            | Stack                                  | Host    |
+| -------- | ---------------------------- | ---- | -------------------- | ----------------------------------- | -------------------------------------- | ------- |
+| TVA      | permitting web application   | Sr   | modernize & recreate | External (public), MFA, geolocation | JavaScript + JSP + TRIRIGA             | Azure   |
+| TVA      | data-entry web application   | Sr   | modernize & recreate | PWA (offline capable), MFA          | Angular + .NET + Oracle                | Azure   |
+| (Self)   | 2D video game                | Solo | design & create      | Shoot-em-up gameplay, spaceships    | C#                                     |         |
+| TQL      | real-time web application    | Mid  | design & create      | Websockets, events                  | Angular + .NET + RabbitMQ + SQL Server | On-prem |
+| TQL      | enterprise resource planning | Jr   | maintain & enhance   | Manage brokerage teams & accounts   | Windows forms + SQL Server             | On-prem |
+| Fidelity | portal web application       | Jr   | design & create      | Document upload, REST webservices   | Angular + Node + Oracle                | AWS     |
+| Fidelity | data-entry application       | Jr   | maintain & enhance   | XML-based workflow rules engine     | Java swing + Oracle                    | On-prem |
+
+### Familiar frameworks
+
+| Purpose    | Language   | Framework/Library |
+| ---------- | ---------- | ----------------- |
+| Unit test  | .NET       | xUnit             |
+| Unit test  | Java       | jUnit             |
+| Unit test  | JavaScript | Jasmine           |
+| ORM        | .NET       | Entity Framework  |
+| ORM        | Node       | Mongoose          |
+| Web client | JavaScript | Angular           |
+| Style      | JavaScript | Angular Material  |
+| Style      | CSS        | Bootstrap         |
+| Web API    | Java       | Spring            |
+| Web API    | Node       | Express           |
+
+### Favorite stacks
+
+### Toy stack
+
+| Client | Server | Database |
+| ------ | ------ | -------- |
+| HTMX   | PHP    | MySql    |
+
+### Enterprise stack
+
+| Client  | Server | Database   |
+| ------- | ------ | ---------- |
+| Angular | .NET   | SQL Server |
 
 ### Skills
 
-- Test automation
+- Unit & integration testing
+- Pipelines & devops
 - Clean architecture
 - Pair programming
-- Modernizing legacy applications
+- Modernization
+- Learning & adapting
