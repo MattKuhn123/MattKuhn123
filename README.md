@@ -2,6 +2,8 @@
 
 ### Full stack software developer
 
+To make your life easier with reliable software.
+
 ### Experience
 
 | Company      | Title                       | Location         | Team                                  | Start   | End     |
