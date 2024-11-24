@@ -15,7 +15,7 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Company  | Summarization      | Role | Task        | Features                   | Stack                       | Host    |
+| Company  | Summary            | Role | Task        | Features                   | Stack                       | Host    |
 | -------- | ------------------ | ---- | ----------- | -------------------------- | --------------------------- | ------- |
 | TVA      | permitting web app | Sr   | modernize   | External, MFA, map picker  | JavaScript + JSP + REST     | Azure   |
 | TVA      | data-entry web app | Sr   | modernize   | PWA, MFA                   | Angular + .NET + Oracle     | Azure   |
