@@ -17,19 +17,19 @@ To make your life easier with reliable software.
 
 | Target   | Project    | Task       | Technical features        | Stack                       | Host    |
 | -------- | ---------- | ---------- | ------------------------- | --------------------------- | ------- |
-| Web      | permitting | brownfield | External, MFA, map picker | JavaScript + JSP            | Azure   |
-| Web      | data-entry | brownfield | PWA, MFA                  | Angular + .NET + Oracle     | Azure   |
-| Web      | real-time  | greenfield | Websockets, pubsub        | Angular + .NET + SqlServer  | On-prem |
-| Desktop  | ERP        | legacy     | Stored procedures         | Windows forms + SqlServer   | On-prem |
-| Web      | portal     | greenfield | Document upload, REST     | Angular + Node + Oracle     | AWS     |
-| Desktop  | data-entry | legacy     | XML-based workflow engine | Java + Oracle               | On-prem |
-| (Self)   | 2D game    | greenfield | Procedural bot behavior   | C#                          |         |
+| Web      | Permitting | Brownfield | External, MFA, map picker | JavaScript + JSP            | Azure   |
+| Web      | Data-entry | Brownfield | PWA, MFA                  | Angular + .NET + Oracle     | Azure   |
+| Web      | Real-time  | Greenfield | Websockets, pubsub        | Angular + .NET + SqlServer  | On-prem |
+| Desktop  | ERP        | Legacy     | Stored procedures         | Windows forms + SqlServer   | On-prem |
+| Web      | Portal     | Greenfield | Document upload, REST     | Angular + Node + Oracle     | AWS     |
+| Desktop  | Data-entry | Legacy     | XML-based workflow engine | Java + Oracle               | On-prem |
+| (Self)   | 2D game    | Greenfield | Procedural bot behavior   | C#                          |         |
 
 ### Favorite frameworks
 
 | Language   | Purpose    | Framework/Library |
 | ---------- | ---------- | ----------------- |
-| .NET       | Unit test  | xUnit             |
+| .NET       | Unit test  | XUnit             |
 | .NET       | ORM        | Entity Framework  |
 | JavaScript | Unit test  | Jasmine           |
 | JavaScript | Web client | Angular           |
@@ -38,7 +38,7 @@ To make your life easier with reliable software.
 | Node       | Web API    | Express           |
 | CSS        | Style      | Bootstrap         |
 | Java       | Web API    | Spring            |
-| Java       | Unit test  | jUnit             |
+| Java       | Unit test  | JUnit             |
 | Java       | ORM        | JDBC              |
 
 ### Favorite cloud services
@@ -74,5 +74,5 @@ To make your life easier with reliable software.
 
 |            | Client            | Server      | Database   |
 | ---------- | ----------------- | ----------- | ---------- |
-| personal   | Vanilla JS + HTMX | Vanilla PHP | MySql      |
-| enterprise | Angular           | .NET        | SQL Server |
+| Personal   | Vanilla JS + HTMX | Vanilla PHP | MySql      |
+| Enterprise | Angular           | .NET        | SQL Server |
