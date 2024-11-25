@@ -15,15 +15,15 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Target   | Purpose    | Value                         | Technical challenges                      | Technical features        | Stack                       | Host    |
-| -------- | ---------- | ----------------------------- | ----------------------------------------- | ------------------------- | --------------------------- | ------- |
-| Web      | Permitting | Replace paper mail process    | Brownfield, migrate Websphere to Tomcat   | External, MFA, map picker | JavaScript + JSP            | Azure   |
-| Web      | Data-entry | Record habitat health metrics | Brownfield, offline-mode, VB.NET re-write | PWA, MFA                  | Angular + .NET + Oracle     | Azure   |
-| Web      | Real-time  | Broker account notifications  | Greenfield, live notifications            | Websockets, pubsub        | Angular + .NET + SqlServer  | On-prem |
-| Desktop  | ERP        | Logistics coordination        | Legacy, performance optimization          | Stored procedures         | Windows forms + SqlServer   | On-prem |
-| Web      | Portal     | Automate data extraction      | Brownfield, Java applet re-write          | Document upload, REST     | Angular + Node + Oracle     | AWS     |
-| Desktop  | Data-entry | Manually key data from image  | Legacy, bug fixes and enhancements        | XML-based workflow engine | Java + Oracle               | On-prem |
-| Desktop  | 2D game    | Fun and entertainment         | Greenfield                                | Procedural bot behavior   | Unity, C#                   |         |
+| Purpose    | Value                         | Technical challenges                      | Technical features        | Stack                       | Host    |
+| ---------- | ----------------------------- | ----------------------------------------- | ------------------------- | --------------------------- | ------- |
+| Permitting | Replace paper mail process    | Brownfield, migrate Websphere to Tomcat   | External, MFA, map picker | JavaScript + JSP            | Azure   |
+| Data-entry | Record habitat health metrics | Brownfield, offline-mode, VB.NET re-write | PWA, MFA                  | Angular + .NET + Oracle     | Azure   |
+| Real-time  | Broker account notifications  | Greenfield, live notifications            | Websockets, pubsub        | Angular + .NET + SqlServer  | On-prem |
+| ERP        | Logistics coordination        | Legacy, performance optimization          | Stored procedures         | Windows forms + SqlServer   | On-prem |
+| Portal     | Automate data extraction      | Brownfield, Java applet re-write          | Document upload, REST     | Angular + Node + Oracle     | AWS     |
+| Data-entry | Manually key data from image  | Legacy, bug fixes and enhancements        | XML-based workflow engine | Java + Oracle               | On-prem |
+| 2D game    | Fun and entertainment         | Greenfield                                | Procedural bot behavior   | Unity, C#                   |         |
 
 ### Favorite frameworks
 
