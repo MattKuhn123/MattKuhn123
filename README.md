@@ -6,41 +6,42 @@ To make your life easier with reliable software.
 
 ### Experience
 
-| Company      | Title                       | Location         | Team                                  | Start | End   |
-| :----------- | :-------------------------- | :--------------- | :------------------------------------ | :---: | :---: |
-| TVA          | Software Developer B        | Knoxville, TN    | Land, Property, Vegetation Management | 08/22 |       |
-| (Sabbatical) | (Teacher, developer)        | Independence, KY |                                       | 06/20 | 08/22 |
-| TQL          | Software Developer II       | Cincinnati, OH   | Load Management                       | 10/18 | 06/20 |
-| Fidelity     | Software Engineer A         | Taylor Mill, KY  | Inbound Mail                          | 07/15 | 10/18 |
+| Company      | Title                       | Location         | Team              | Start | End   |
+| :----------- | :-------------------------- | :--------------- | :---------------- | :---: | :---: |
+| TVA          | Software Developer B        | Knoxville, TN    | Solution delivery | 08/22 |       |
+| (Sabbatical) | (Teacher, developer)        | Independence, KY |                   | 06/20 | 08/22 |
+| TQL          | Software Developer II       | Cincinnati, OH   | Load management   | 10/18 | 06/20 |
+| Fidelity     | Software Engineer A         | Taylor Mill, KY  | Inbound mail      | 07/15 | 10/18 |
 
 ### Key accomplishments
 
-| Company  | Project            | Task        | Technical features         | Stack                       | Host    |
-| -------- | ------------------ | ----------- | -------------------------- | --------------------------- | ------- |
-| TVA      | permitting web app | modernize   | External, MFA, map picker  | JavaScript + JSP + REST     | Azure   |
-| TVA      | data-entry web app | modernize   | PWA, MFA                   | Angular + .NET + Oracle     | Azure   |
-| (Self)   | 2D video game      | create      | Shoot-em-up gameplay       | C#                          |         |
-| TQL      | real-time web app  | create      | Websockets, pubsub         | Angular + .NET + SqlServer  | On-prem |
-| TQL      | ERP                | enhance     | Stored procedures          | Windows forms + SqlServer   | On-prem |
-| Fidelity | portal web app     | create      | Document upload, REST      | Angular + Node + Oracle     | AWS     |
-| Fidelity | data-entry app     | enhance     | XML-based workflow engine  | Java + Oracle               | On-prem |
+| Target   | Project    | Task       | Technical features        | Stack                       | Host    |
+| -------- | ---------- | ---------- | ------------------------- | --------------------------- | ------- |
+| Web      | permitting | brownfield | External, MFA, map picker | JavaScript + JSP            | Azure   |
+| Web      | data-entry | brownfield | PWA, MFA                  | Angular + .NET + Oracle     | Azure   |
+| Web      | real-time  | greenfield | Websockets, pubsub        | Angular + .NET + SqlServer  | On-prem |
+| Desktop  | ERP        | legacy     | Stored procedures         | Windows forms + SqlServer   | On-prem |
+| Web      | portal     | greenfield | Document upload, REST     | Angular + Node + Oracle     | AWS     |
+| Desktop  | data-entry | legacy     | XML-based workflow engine | Java + Oracle               | On-prem |
+| (Self)   | 2D game    | greenfield | Procedural bot behavior   | C#                          |         |
 
-### Familiar frameworks
+### Favorite frameworks
 
-| Purpose    | Language   | Framework/Library |
+| Language   | Purpose    | Framework/Library |
 | ---------- | ---------- | ----------------- |
-| Unit test  | .NET       | xUnit             |
-| Unit test  | Java       | jUnit             |
-| Unit test  | JavaScript | Jasmine           |
-| ORM        | .NET       | Entity Framework  |
-| ORM        | Node       | Mongoose          |
-| Web client | JavaScript | Angular           |
-| Style      | JavaScript | Angular Material  |
-| Style      | CSS        | Bootstrap         |
-| Web API    | Java       | Spring            |
-| Web API    | Node       | Express           |
+| .NET       | Unit test  | xUnit             |
+| .NET       | ORM        | Entity Framework  |
+| JavaScript | Unit test  | Jasmine           |
+| JavaScript | Web client | Angular           |
+| JavaScript | Style      | Angular Material  |
+| Node       | ORM        | Mongoose          |
+| Node       | Web API    | Express           |
+| CSS        | Style      | Bootstrap         |
+| Java       | Web API    | Spring            |
+| Java       | Unit test  | jUnit             |
+| Java       | ORM        | JDBC              |
 
-### Familiar cloud services
+### Favorite cloud services
 
 | Host  | Service      | Purpose              |
 | ----- | ------------ | -------------------- |
@@ -58,7 +59,6 @@ To make your life easier with reliable software.
 - Clean architecture
 - Pair programming
 - Refactoring, optimization & modernization
-- Learning & adapting
 
 ### Other tools
 
@@ -74,5 +74,5 @@ To make your life easier with reliable software.
 
 |            | Client            | Server      | Database   |
 | ---------- | ----------------- | ----------- | ---------- |
-| toy        | Vanilla JS + HTMX | Vanilla PHP | MySql      |
+| personal   | Vanilla JS + HTMX | Vanilla PHP | MySql      |
 | enterprise | Angular           | .NET        | SQL Server |
