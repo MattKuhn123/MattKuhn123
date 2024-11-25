@@ -15,7 +15,7 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Purpose    | Value                         | Technical challenges                      | Technical features        | Stack                       | Host    |
+| Project    | Value                         | Technical challenges                      | Technical features        | Stack                       | Host    |
 | ---------- | ----------------------------- | ----------------------------------------- | ------------------------- | --------------------------- | ------- |
 | Permitting | Replace paper mail process    | Brownfield, migrate Websphere to Tomcat   | External, MFA, map picker | JavaScript + JSP            | Azure   |
 | Data-entry | Record habitat health metrics | Brownfield, offline-mode, VB.NET re-write | PWA, MFA                  | Angular + .NET + Oracle     | Azure   |
