@@ -37,23 +37,17 @@ To make your life better with secure & reliable software.
 
 ### Other tools
 
-| Function        | Tool                  |
-| --------------- | --------------------- | 
-| Documentation   | Markdown              |
-| Version control | Git                   |
-| DevOps          | Azure DevOps          |
-| IDE             | Visual Studio         |
-| IDE             | VS Code               |
-| Platform        | Tomcat                |
-| Platform        | IIS                   |
-| Database        | Toad                  |
-| Database        | MS SQL Server Manager |
-| Database        | MySql Workbench       |
-| Web server      | AWS EC2               |
-| Web storage     | AWS S3                |
-| Web server      | Azure App Services    |
-| Secrets         | Azure Key Vault       |
-| Monitoring      | Azure App Insights    |
+| Function    | Tool               |
+| ----------- | ------------------ | 
+| DevOps      | Azure DevOps       |
+| Platform    | Tomcat             |
+| Platform    | IIS                |
+| Web server  | AWS EC2            |
+| Web storage | AWS S3             |
+| Web server  | Azure App Services |
+| Secrets     | Azure Key Vault    |
+| Monitoring  | Azure App Insights |
+| Docs        | Markdown           |
 
 ### Skills
 
