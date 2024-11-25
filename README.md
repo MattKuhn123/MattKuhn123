@@ -15,15 +15,15 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Target   | Project    | Task       | Technical features        | Stack                       | Host    |
-| -------- | ---------- | ---------- | ------------------------- | --------------------------- | ------- |
-| Web      | Permitting | Brownfield | External, MFA, map picker | JavaScript + JSP            | Azure   |
-| Web      | Data-entry | Brownfield | PWA, MFA                  | Angular + .NET + Oracle     | Azure   |
-| Web      | Real-time  | Greenfield | Websockets, pubsub        | Angular + .NET + SqlServer  | On-prem |
-| Desktop  | ERP        | Legacy     | Stored procedures         | Windows forms + SqlServer   | On-prem |
-| Web      | Portal     | Greenfield | Document upload, REST     | Angular + Node + Oracle     | AWS     |
-| Desktop  | Data-entry | Legacy     | XML-based workflow engine | Java + Oracle               | On-prem |
-| Desktop  | 2D game    | Greenfield | Procedural bot behavior   | Unity, C#                   |         |
+| Target   | Purpose    | Value                         | Technical challenges                    | Technical features        | Stack                       | Host    |
+| -------- | ---------- | ----------------------------- | --------------------------------------- | ------------------------- | --------------------------- | ------- |
+| Web      | Permitting | Replace paper mail process    | Brownfield, migrate Websphere to Tomcat | External, MFA, map picker | JavaScript + JSP            | Azure   |
+| Web      | Data-entry | Record habitat health metrics | Brownfield, translate from VB.NET       | PWA, MFA                  | Angular + .NET + Oracle     | Azure   |
+| Web      | Real-time  | Broker account notifications  | Greenfield                              | Websockets, pubsub        | Angular + .NET + SqlServer  | On-prem |
+| Desktop  | ERP        | Logistics coordination        | Legacy                                  | Stored procedures         | Windows forms + SqlServer   | On-prem |
+| Web      | Portal     | Automate data extraction      | Brownfield, translate from Java applet  | Document upload, REST     | Angular + Node + Oracle     | AWS     |
+| Desktop  | Data-entry | Manually key data from image  | Legacy                                  | XML-based workflow engine | Java + Oracle               | On-prem |
+| Desktop  | 2D game    | Fun and entertainment         | Greenfield                              | Procedural bot behavior   | Unity, C#                   |         |
 
 ### Favorite frameworks
 
@@ -70,10 +70,3 @@ To make your life easier with reliable software.
 - IIS
 - Visual Studio
 - VS Code
-
-### Favorite stacks
-
-|            | Client            | Server      | Database   |
-| ---------- | ----------------- | ----------- | ---------- |
-| Personal   | Vanilla JS + HTMX | Vanilla PHP | MySql      |
-| Enterprise | Angular           | .NET        | SQL Server |
