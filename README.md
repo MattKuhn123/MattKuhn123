@@ -35,19 +35,9 @@ To make your life better with secure & reliable software.
 | JavaScript | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, npm |
 | NodeJS     |                           |                       | Express  | Mongoose         |         | npm             |
 
-### Other tools
+#### Other tools
 
-| Function    | Tool               |
-| ----------- | ------------------ | 
-| DevOps      | Azure DevOps       |
-| Platform    | Tomcat             |
-| Platform    | IIS                |
-| Web server  | AWS EC2            |
-| Web storage | AWS S3             |
-| Web server  | Azure App Services |
-| Secrets     | Azure Key Vault    |
-| Monitoring  | Azure App Insights |
-| Docs        | Markdown           |
+Azure Devops, Tomcat, IIS, AWS EC2, AWS S3, Azure App Services, Azure App Insights, Azure Key Vault
 
 ### Skills
 
