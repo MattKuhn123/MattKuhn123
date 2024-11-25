@@ -15,23 +15,23 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Project    | Value                   | Technical challenges              | Technical features        | Stack                    | Host    |
-| ---------- | ----------------------- | --------------------------------- | ------------------------- | ------------------------ | ------- |
-| Permitting | Replace mail process    | Brownfield: migrate IBM to Tomcat | MFA, geography            | JavaScript, JSP          | Azure   |
-| Data-entry | Document habitat health | Brownfield: offline, VB re-write  | PWA, MFA                  | Angular, .NET, Oracle    | Azure   |
-| Real-time  | Account team service    | Greenfield: live notifications    | Websockets, pub-sub       | Angular, .NET, SqlServer | On-prem |
-| ERP        | Logistics coordination  | Legacy: performance optimization  | Stored procedures         | Windows forms, SqlServer | On-prem |
-| Portal     | Data extraction         | Brownfield: Java applet re-write  | Document upload           | Angular, Node, Oracle    | AWS     |
-| Data-entry | Key data from image     | Legacy: bug fixes, enhancements   | Workflow rules            | Java, Oracle             | On-prem |
-| 2D game    | Entertainment           | Videogame development paradigm    | Procedural bot behavior   | Unity, C#                |         |
+| Project    | Value                   | Technical challenges              | Technical features        | Stack               | Host    |
+| ---------- | ----------------------- | --------------------------------- | ------------------------- | ------------------- | ------- |
+| Permitting | Replace mail process    | Brownfield: migrate IBM to Tomcat | MFA, geography            | JavaScript JSP      | Azure   |
+| Data-entry | Document habitat health | Brownfield: offline, VB re-write  | PWA, MFA                  | Angular .NET Oracle | Azure   |
+| Real-time  | Account team service    | Greenfield: live notifications    | Websockets, pub-sub       | Angular .NET MSSQL  | On-prem |
+| ERP        | Logistics coordination  | Legacy: optimize performance      | Stored procedures         | .NET forms, MSSQL   | On-prem |
+| Portal     | Data extraction         | Brownfield: Java applet re-write  | Document upload           | Angular Node Oracle | AWS     |
+| Data-entry | Key data from image     | Legacy: bug fixes, features       | Workflow rules            | Java, Oracle        | On-prem |
+| 2D game    | Entertainment           | Game development paradigm         | Procedural bot behavior   | Unity, C#           |         |
 
 ### Favorite frameworks
 
 | Language   | Framework/Library | Purpose      |
 | ---------- | ----------------- | ------------ |
-| .NET       | XUnit             | Unit test    |
-| .NET       | Entity Framework  | ORM          |
-| .NET       | Swagger           | Web API docs |
+| C#         | XUnit             | Unit test    |
+| C#         | Entity Framework  | ORM          |
+| C#         | Swagger           | Web API docs |
 | JavaScript | Puppeteer         | E2E test     |
 | JavaScript | Jasmine           | Unit test    |
 | JavaScript | Angular           | Web client   |
