@@ -20,7 +20,7 @@ To make your life better with secure & reliable software.
 | Permitting | Replace mail process   | Brownfield: migrate IBM to Tomcat | MFA, geography      | JavaScript JSP      | Azure   |
 | Data-entry | Report habitat health  | Brownfield: offline, VB re-write  | MFA, PWA            | Angular .NET Oracle | AWS     |
 | CMS        | Parcel tracking        | Brownfield: move Oracle to MySQL  | MFA, CSV import     | ASP.NET MySQL       | AWS     |
-| Real-time  | Account team service   | Greenfield: live notifications    | Websockets, pub-sub | Angular .NET MSSQL  | On-prem |
+| Real-time  | Account team services  | Greenfield: live notifications    | Websockets, pub-sub | Angular .NET MSSQL  | On-prem |
 | ERP        | Coordinate logistics   | Legacy: optimize performance      | Stored procedures   | .NET forms, MSSQL   | On-prem |
 | Portal     | Data extraction        | Brownfield: Java applet re-write  | Document upload     | Angular Node Oracle | AWS     |
 | Data-entry | Key data from image    | Legacy: bug fixes, features       | Workflow rules      | Java, Oracle        | On-prem |
