@@ -17,7 +17,7 @@ To make your life better with secure & reliable software.
 
 | Project    | Value                  | Technical challenges              | Technical features  | Stack               | Host    |
 | ---------- | ---------------------- | --------------------------------- | ------------------- | ------------------- | ------- |
-| Permitting | Replace mail process   | Brownfield: migrate IBM to Tomcat | MFA, geography      | JavaScript JSP      | Azure   |
+| Permitting | Replace mail process   | Brownfield: migrate IBM to Tomcat | MFA, maps, low-code | JavaScript JSP      | Azure   |
 | Data-entry | Report habitat health  | Brownfield: offline, VB re-write  | MFA, PWA            | Angular .NET Oracle | AWS     |
 | CMS        | Parcel tracking        | Brownfield: move Oracle to MySQL  | MFA, CSV import     | ASP.NET MySQL       | AWS     |
 | Real-time  | Account team services  | Greenfield: live notifications    | Websockets, pub-sub | Angular .NET MS SQL | On-prem |
