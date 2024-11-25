@@ -15,16 +15,16 @@ To make your life better with secure & reliable software.
 
 ### Key accomplishments
 
-| Project    | Value                  | Technical challenges      | Technical features  | Stack                  | Host    |
-| ---------- | ---------------------- | ------------------------- | ------------------- | ---------------------- | ------- |
-| Permitting | Replace mail process   | Move WebSphere to Tomcat  | MFA, maps, low-code | JavaScript JSP TRIRIGA | Azure   |
-| Data-entry | Report habitat health  | Offline-mode, VB re-write | MFA, PWA            | Angular .NET Oracle    | AWS     |
-| CMS        | Parcel tracking        | Move Oracle to MySQL      | MFA, CSV import     | ASP.NET MySQL          | AWS     |
-| Real-time  | Account team services  | Live notifications        | Websockets, pub-sub | Angular .NET SQLServer | On-prem |
-| ERP        | Coordinate logistics   | Optimize performance      | Stored procedures   | .NET forms, SQLServer  | On-prem |
-| Portal     | Data extraction        | Java applet re-write      | Document upload     | Angular Node Oracle    | AWS     |
-| Data-entry | Key data from image    | Bug fixes, features       | Workflow rules      | Java Oracle            | On-prem |
-| 2D game    | Entertainment          | Development paradigm      | Procedural behavior | Unity C#               |         |
+| Project    | Value                  | Technical challenges      | Technical features  | Stack                    | Host    |
+| ---------- | ---------------------- | ------------------------- | ------------------- | ------------------------ | ------- |
+| Permitting | Replace mail process   | Move WebSphere to Tomcat  | MFA, maps, low-code | JavaScript, JSP, TRIRIGA | Azure   |
+| Data-entry | Report habitat health  | Offline-mode, VB re-write | MFA, PWA            | Angular, .NET, Oracle    | AWS     |
+| CMS        | Parcel tracking        | Move Oracle to MySQL      | MFA, CSV import     | ASP.NET, MySQL           | AWS     |
+| Real-time  | Account team services  | Live notifications        | Websockets, pub-sub | Angular, .NET, SQLServer | On-prem |
+| ERP        | Coordinate logistics   | Optimize performance      | Stored procedures   | .NET forms, SQLServer    | On-prem |
+| Portal     | Data extraction        | Java applet re-write      | Document upload     | Angular, Node, Oracle    | AWS     |
+| Data-entry | Key data from image    | Bug fixes, features       | Workflow rules      | Java, Oracle             | On-prem |
+| 2D game    | Entertainment          | Development paradigm      | Procedural behavior | Unity C#                 |         |
 
 ### Favorite frameworks, libraries and tools
 
