@@ -70,10 +70,4 @@ To make your life easier with reliable software.
 
 ### Favorite tools
 
-- Git
-- Azure DevOps
-- Docker
-- Tomcat
-- IIS
-- Visual Studio
-- VS Code
+- Git, Azure DevOps, Docker, Tomcat, IIS, Visual Studio, VS Code
