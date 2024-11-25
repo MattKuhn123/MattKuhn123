@@ -36,8 +36,8 @@ Full stack software developer - aiming to make your life better with secure & re
 
 - Test-driven development, clean code
 - Collaboration, pair programming
-- Azure DevOps, pipelines, devops
-- Web server and platform configuration
+- Azure DevOps, pipelines
+- Web server & platform configuration
 - Monolithic or service-oriented architecture
 - Refactoring, optimization & modernization
 - Azure App Services, App Insights, KeyVault
