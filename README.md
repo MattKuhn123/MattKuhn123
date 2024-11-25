@@ -2,7 +2,7 @@
 
 Full stack software developer
 
-To make your life better with secure, reliable software.
+To make your life better with secure & reliable software.
 
 ### Experience
 
@@ -63,10 +63,9 @@ To make your life better with secure, reliable software.
 
 ### Skills
 
-- Unit & integration testing
 - Test-driven development
 - Pipelines & devops
-- Clean architecture
+- Clean code
 - Monolithic or service-oriented architecture
 - Pair programming
 - Refactoring, optimization & modernization
