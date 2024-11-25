@@ -35,11 +35,10 @@ Full stack software developer - aiming to make your life better with secure & re
 ### Skills
 
 - Test-driven development
-- Web server and platform configuration
-- Clean code
-- Monolithic or service-oriented architecture
-- Pair programming
-- Refactoring, optimization & modernization
+- Clean code, pair programming
 - Azure DevOps, pipelines, devops
+- Web server and platform configuration
+- Monolithic or service-oriented architecture
+- Refactoring, optimization & modernization
 - Azure App Services, App Insights, KeyVault
 - AWS EC2, S3
