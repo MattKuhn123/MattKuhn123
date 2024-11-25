@@ -1,8 +1,6 @@
 ## Matt Kuhn
 
-Full stack software developer
-
-To make your life better with secure & reliable software.
+Full stack software developer - aiming to make your life better with secure & reliable software.
 
 ### Experience
 
@@ -28,20 +26,20 @@ To make your life better with secure & reliable software.
 
 ### Favorite frameworks, libraries and tools
 
-| Language   | Yrs | Testing                   | Client          | WEB API | ORM      | Logging | Build         | Platform |
+| Language   | Yrs | Testing                   | Client          | Web API | ORM      | Logging | Build         | Platform |
 | ---------- | :-: | ------------------------- | --------------- | ------- | -------- | ------- | ------------- | -------- |
 | C#         |  6  | XUnit                     | ASP.NET         | Swagger | EF       | Serilog | Nuget         | IIS      |
 | Java       |  5  | JUnit, Cobertura          | JSP, Thymeleaf  | Spring  | JDBC     | SLF4J   | Gradle, Maven | Tomcat   |
 | JavaScript |  8  | Jasmine, Puppeteer, Karma | Angular, jQuery | Express | Mongoose |         | NPM           |          |
 
-Azure Devops, AWS EC2, AWS S3, Azure App Services, Azure App Insights, Azure Key Vault
-
 ### Skills
 
 - Test-driven development
-- Pipelines & devops
 - Web server and platform configuration
 - Clean code
 - Monolithic or service-oriented architecture
 - Pair programming
 - Refactoring, optimization & modernization
+- Azure DevOps, pipelines, devops
+- Azure App Services, App Insights, KeyVault
+- AWS EC2, S3
