@@ -21,7 +21,7 @@ To make your life easier with reliable software.
 | TVA      | data-entry web app | Sr   | modernize   | PWA, MFA                   | Angular + .NET + Oracle     | Azure   |
 | (Self)   | 2D video game      | Solo | create      | Shoot-em-up gameplay       | C#                          |         |
 | TQL      | real-time web app  | Mid  | create      | Websockets, pubsub         | Angular + .NET + SqlServer  | On-prem |
-| TQL      | ERP                | Jr   | enhance     | Manage brokerage accounts  | Windows forms + SqlServer   | On-prem |
+| TQL      | ERP                | Jr   | enhance     | Stored procedures          | Windows forms + SqlServer   | On-prem |
 | Fidelity | portal web app     | Jr   | create      | Document upload, REST      | Angular + Node + Oracle     | AWS     |
 | Fidelity | data-entry app     | Jr   | enhance     | XML-based workflow engine  | Java + Oracle               | On-prem |
 
