@@ -26,7 +26,7 @@ Full stack software developer - aiming to make your life better with secure & re
 
 ### Favorite frameworks, libraries and tools
 
-| Language   | Yrs | Testing                   | Client          | Web API | ORM      | Logging | Build         | Platform |
+|            | Yrs | Testing                   | Client          | Web API | ORM      | Logging | Build         | Platform |
 | ---------- | :-: | ------------------------- | --------------- | ------- | -------- | ------- | ------------- | -------- |
 | C#         |  6  | XUnit                     | ASP.NET         | Swagger | EF       | Serilog | Nuget         | IIS      |
 | Java       |  5  | JUnit, Cobertura          | JSP, Thymeleaf  | Spring  | JDBC     | SLF4J   | Gradle, Maven | Tomcat   |
