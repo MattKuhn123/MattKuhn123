@@ -17,12 +17,12 @@ To make your life easier with reliable software.
 
 | Project    | Value                   | Technical challenges              | Technical features        | Stack                    | Host    |
 | ---------- | ----------------------- | --------------------------------- | ------------------------- | ------------------------ | ------- |
-| Permitting | Replace mail process    | Brownfield: migrate IBM to Tomcat | External, MFA, map picker | JavaScript, JSP          | Azure   |
+| Permitting | Replace mail process    | Brownfield: migrate IBM to Tomcat | External, MFA, geography  | JavaScript, JSP          | Azure   |
 | Data-entry | Document habitat health | Brownfield: offline, VB re-write  | PWA, MFA                  | Angular, .NET, Oracle    | Azure   |
-| Real-time  | Account team service    | Greenfield: live notifications    | Websockets, pubsub        | Angular, .NET, SqlServer | On-prem |
+| Real-time  | Account team service    | Greenfield: live notifications    | Websockets, pub-sub       | Angular, .NET, SqlServer | On-prem |
 | ERP        | Logistics coordination  | Legacy: performance optimization  | Stored procedures         | Windows forms, SqlServer | On-prem |
-| Portal     | Data extraction         | Brownfield: Java applet re-write  | Document upload, REST     | Angular, Node, Oracle    | AWS     |
-| Data-entry | Key data from image     | Legacy: bug fixes, enhancements   | XML-based workflow engine | Java, Oracle             | On-prem |
+| Portal     | Data extraction         | Brownfield: Java applet re-write  | Document upload           | Angular, Node, Oracle    | AWS     |
+| Data-entry | Key data from image     | Legacy: bug fixes, enhancements   | Workflow rules            | Java, Oracle             | On-prem |
 | 2D game    | Entertainment           | Videogame development paradigm    | Procedural bot behavior   | Unity, C#                |         |
 
 ### Favorite frameworks
@@ -32,7 +32,7 @@ To make your life easier with reliable software.
 | .NET       | XUnit             | Unit test    |
 | .NET       | Entity Framework  | ORM          |
 | .NET       | Swagger           | Web API docs |
-| JavaScript | Puppeteer         | e2e test     |
+| JavaScript | Puppeteer         | E2E test     |
 | JavaScript | Jasmine           | Unit test    |
 | JavaScript | Angular           | Web client   |
 | JavaScript | Jquery            | Web client   |
@@ -57,9 +57,10 @@ To make your life easier with reliable software.
 
 ### Skills
 
-- Unit & integration testing, test-driven development
+- Unit & integration testing
+- Test-driven development
 - Pipelines & devops
-- Clean (onion) architecture
+- Clean architecture
 - Monolithic or service-oriented architecture
 - Pair programming
 - Refactoring, optimization & modernization
