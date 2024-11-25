@@ -30,7 +30,7 @@ Full stack software developer - aiming to make your life better with secure & re
 | ---------- | :-: | ------------------------- | --------------- | ------- | -------- | ------- | ------------- | -------- |
 | C#         |  6  | XUnit                     | ASP.NET         | Swagger | EF       | Serilog | Nuget         | IIS      |
 | Java       |  5  | JUnit, Cobertura          | JSP, Thymeleaf  | Spring  | JDBC     | SLF4J   | Gradle, Maven | Tomcat   |
-| JavaScript |  8  | Jasmine, Puppeteer, Karma | Angular, jQuery | Express | Mongoose |         | NPM           |          |
+| JavaScript |  8  | Jasmine, Puppeteer, Karma | Angular, jQuery | Express | Mongoose |         | NPM           | Alpine   |
 
 ### Skills
 
