@@ -31,8 +31,8 @@ To make your life better with secure & reliable software.
 | Language   | Yrs | Testing                   | Client                | REST API | ORM              | Logging | Build           |
 | ---------- | :-: | ------------------------- | --------------------- | -------- | ---------------- | ------- | -------------   |
 | C#         |  6  | XUnit                     | ASP.NET               | Swagger  | Entity Framework | Serilog | Nuget           |
-| Java       |  4  | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
-| JavaScript |  7  | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, NPM |
+| Java       |  5  | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
+| JavaScript |  8  | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, NPM |
 | NodeJS     |  1  |                           |                       | Express  | Mongoose         |         | NPM             |
 
 #### Other tools
