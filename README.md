@@ -7,13 +7,13 @@ Full stack software developer - aiming to make your life better with secure & re
 | Company      | Title                       | Location         | Team              | Start | End   |
 | :----------- | :-------------------------- | :--------------- | :---------------- | :---: | :---: |
 | TVA          | Software Developer B        | Knoxville, TN    | Solution delivery | 08/22 |       |
-| (Sabbatical) | (Teacher, developer)        | Independence, KY |                   | 06/20 | 08/22 |
+| (Gap year)   | (Teacher, game developer)   | Independence, KY |                   | 06/20 | 08/22 |
 | TQL          | Software Developer II       | Cincinnati, OH   | Load management   | 10/18 | 06/20 |
 | Fidelity     | Software Engineer A         | Taylor Mill, KY  | Inbound mail      | 07/15 | 10/18 |
 
 ### Key accomplishments
 
-| Project    | Value                  | Technical challenges      | Technical features  | Stack                    | Host    |
+| Project    | Business value         | Technical challenges      | Technical features  | Stack                    | Host    |
 | ---------- | ---------------------- | ------------------------- | ------------------- | ------------------------ | ------- |
 | Permitting | Replace mail process   | Move WebSphere to Tomcat  | MFA, maps, low-code | JavaScript, JSP, TRIRIGA | Azure   |
 | Data-entry | Report habitat health  | Offline-mode, VB re-write | MFA, PWA            | Angular, .NET, Oracle    | AWS     |
@@ -36,7 +36,7 @@ Full stack software developer - aiming to make your life better with secure & re
 
 - Test-driven development
 - Collaboration, pair programming
-- Documentation, succinct but useful communication
+- Succinct communication & documentation
 - Azure DevOps, pipelines
 - Web server & platform configuration
 - Monolithic or service-oriented architecture
