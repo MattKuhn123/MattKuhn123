@@ -20,7 +20,7 @@ To make your life easier with reliable software.
 | TVA      | permitting web app | Sr   | modernize   | External, MFA, map picker  | JavaScript + JSP + REST     | Azure   |
 | TVA      | data-entry web app | Sr   | modernize   | PWA, MFA                   | Angular + .NET + Oracle     | Azure   |
 | (Self)   | 2D video game      | Solo | create      | Shoot-em-up gameplay       | C#                          |         |
-| TQL      | real-time web app  | Mid  | create      | Websockets, events         | Angular + .NET + SqlServer  | On-prem |
+| TQL      | real-time web app  | Mid  | create      | Websockets, pubsub         | Angular + .NET + SqlServer  | On-prem |
 | TQL      | ERP                | Jr   | enhance     | Manage brokerage accounts  | Windows forms + SqlServer   | On-prem |
 | Fidelity | portal web app     | Jr   | create      | Document upload, REST      | Angular + Node + Oracle     | AWS     |
 | Fidelity | data-entry app     | Jr   | enhance     | XML-based workflow engine  | Java + Oracle               | On-prem |
