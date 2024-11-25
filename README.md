@@ -24,7 +24,7 @@ To make your life easier with reliable software.
 | ERP        | Coordinate logistics   | Legacy: optimize performance      | Stored procedures   | .NET forms, MSSQL   | On-prem |
 | Portal     | Data extraction        | Brownfield: Java applet re-write  | Document upload     | Angular Node Oracle | AWS     |
 | Data-entry | Key data from image    | Legacy: bug fixes, features       | Workflow rules      | Java, Oracle        | On-prem |
-| 2D game    | Entertainment          | New development paradigm          | Procedural behavior | Unity, C#           |         |
+| 2D game    | Entertainment          | Development paradigm              | Procedural behavior | Unity, C#           |         |
 
 ### Favorite frameworks, libraries and tools
 
