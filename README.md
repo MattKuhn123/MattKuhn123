@@ -27,19 +27,19 @@ To make your life easier with reliable software.
 
 ### Favorite frameworks
 
-| Language   | Purpose    | Framework/Library |
-| ---------- | ---------- | ----------------- |
-| .NET       | Unit test  | XUnit             |
-| .NET       | ORM        | Entity Framework  |
-| JavaScript | Unit test  | Jasmine           |
-| JavaScript | Web client | Angular           |
-| JavaScript | Style      | Angular Material  |
-| Node       | ORM        | Mongoose          |
-| Node       | Web API    | Express           |
-| CSS        | Style      | Bootstrap         |
-| Java       | Web API    | Spring            |
-| Java       | Unit test  | JUnit             |
-| Java       | ORM        | JDBC              |
+| Language   | Framework/Library | Purpose    |
+| ---------- | ----------------- | ---------- |
+| .NET       | XUnit             | Unit test  |
+| .NET       | Entity Framework  | ORM        |
+| JavaScript | Jasmine           | Unit test  |
+| JavaScript | Angular           | Web client |
+| JavaScript | Angular Material  | Style      |
+| Node       | Mongoose          | ORM        |
+| Node       | Express           | Web API    |
+| CSS        | Bootstrap         | Style      |
+| Java       | Spring            | Web API    |
+| Java       | JUnit             | Unit test  |
+| Java       | JDBC              | ORM        |
 
 ### Favorite cloud services
 
