@@ -6,24 +6,24 @@ To make your life easier with reliable software.
 
 ### Experience
 
-| Company      | Title                       | Location         | Team                                  | Start   | End     |
-| :----------- | :-------------------------- | :--------------- | :------------------------------------ | :-----: | :-----: |
-| TVA          | Software Developer B        | Knoxville, TN    | Land, Property, Vegetation Management | 08/2022 | CURRENT |
-| (Sabbatical) | (Teacher, developer)        | Independence, KY |                                       | 06/2020 | 08/2022 |
-| TQL          | Software Developer II       | Cincinnati, OH   | Load Management                       | 10/2018 | 06/2020 |
-| Fidelity     | Software Engineer A         | Taylor Mill, KY  | Inbound Mail                          | 07/2015 | 10/2018 |
+| Company      | Title                       | Location         | Team                                  | Start | End   |
+| :----------- | :-------------------------- | :--------------- | :------------------------------------ | :---: | :---: |
+| TVA          | Software Developer B        | Knoxville, TN    | Land, Property, Vegetation Management | 08/22 |       |
+| (Sabbatical) | (Teacher, developer)        | Independence, KY |                                       | 06/20 | 08/22 |
+| TQL          | Software Developer II       | Cincinnati, OH   | Load Management                       | 10/18 | 06/20 |
+| Fidelity     | Software Engineer A         | Taylor Mill, KY  | Inbound Mail                          | 07/15 | 10/18 |
 
 ### Key accomplishments
 
-| Company  | Summary            | Role | Task        | Features                   | Stack                       | Host    |
-| -------- | ------------------ | ---- | ----------- | -------------------------- | --------------------------- | ------- |
-| TVA      | permitting web app | Sr   | modernize   | External, MFA, map picker  | JavaScript + JSP + REST     | Azure   |
-| TVA      | data-entry web app | Sr   | modernize   | PWA, MFA                   | Angular + .NET + Oracle     | Azure   |
-| (Self)   | 2D video game      | Solo | create      | Shoot-em-up gameplay       | C#                          |         |
-| TQL      | real-time web app  | Mid  | create      | Websockets, pubsub         | Angular + .NET + SqlServer  | On-prem |
-| TQL      | ERP                | Jr   | enhance     | Stored procedures          | Windows forms + SqlServer   | On-prem |
-| Fidelity | portal web app     | Jr   | create      | Document upload, REST      | Angular + Node + Oracle     | AWS     |
-| Fidelity | data-entry app     | Jr   | enhance     | XML-based workflow engine  | Java + Oracle               | On-prem |
+| Company  | Project            | Task        | Technical features         | Stack                       | Host    |
+| -------- | ------------------ | ----------- | -------------------------- | --------------------------- | ------- |
+| TVA      | permitting web app | modernize   | External, MFA, map picker  | JavaScript + JSP + REST     | Azure   |
+| TVA      | data-entry web app | modernize   | PWA, MFA                   | Angular + .NET + Oracle     | Azure   |
+| (Self)   | 2D video game      | create      | Shoot-em-up gameplay       | C#                          |         |
+| TQL      | real-time web app  | create      | Websockets, pubsub         | Angular + .NET + SqlServer  | On-prem |
+| TQL      | ERP                | enhance     | Stored procedures          | Windows forms + SqlServer   | On-prem |
+| Fidelity | portal web app     | create      | Document upload, REST      | Angular + Node + Oracle     | AWS     |
+| Fidelity | data-entry app     | enhance     | XML-based workflow engine  | Java + Oracle               | On-prem |
 
 ### Familiar frameworks
 
