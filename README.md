@@ -15,8 +15,8 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Project    | Value                  | Technical challenges              | Technical features | Stack               | Host    |
-| ---------- | ---------------------- | --------------------------------- | -------------------| ------------------- | ------- |
+| Project    | Value                  | Technical challenges              | Technical features  | Stack               | Host    |
+| ---------- | ---------------------- | --------------------------------- | ------------------- | ------------------- | ------- |
 | Permitting | Replace mail process   | Brownfield: migrate IBM to Tomcat | MFA, geography      | JavaScript JSP      | Azure   |
 | Data-entry | Report habitat health  | Brownfield: offline, VB re-write  | PWA, MFA            | Angular .NET Oracle | Azure   |
 | Real-time  | Account team service   | Greenfield: live notifications    | Websockets, pub-sub | Angular .NET MSSQL  | On-prem |
@@ -34,13 +34,16 @@ To make your life easier with reliable software.
 | C#         | Swagger           | Web API docs |
 | JavaScript | Puppeteer         | E2E test     |
 | JavaScript | Jasmine           | Unit test    |
+| JavaScript | Karma             | Coverage     |
 | JavaScript | Angular           | Web client   |
 | JavaScript | Jquery            | Web client   |
+| JavaScript | Typescript        | Type safety  |
 | JavaScript | Angular Material  | Style        |
 | Node       | Mongoose          | ORM          |
 | Node       | Express           | Web API      |
 | CSS        | Bootstrap         | Style        |
 | Java       | Spring            | Web API      |
+| Java       | Cobertura         | Coverage     |
 | Java       | JUnit             | Unit test    |
 | Java       | JDBC              | ORM          |
 
@@ -65,7 +68,7 @@ To make your life easier with reliable software.
 - Pair programming
 - Refactoring, optimization & modernization
 
-### Other tools
+### Favorite tools
 
 - Git
 - Azure DevOps
