@@ -27,25 +27,27 @@ To make your life easier with reliable software.
 
 ### Favorite frameworks
 
-| Language   | Framework/Library | Purpose      |
-| ---------- | ----------------- | ------------ |
-| C#         | XUnit             | Unit test    |
-| C#         | Entity Framework  | ORM          |
-| C#         | Swagger           | Web API docs |
-| JavaScript | Puppeteer         | E2E test     |
-| JavaScript | Jasmine           | Unit test    |
-| JavaScript | Karma             | Coverage     |
-| JavaScript | Angular           | Web client   |
-| JavaScript | Jquery            | Web client   |
-| JavaScript | Typescript        | Type safety  |
-| JavaScript | Angular Material  | Style        |
-| Node       | Mongoose          | ORM          |
-| Node       | Express           | Web API      |
-| CSS        | Bootstrap         | Style        |
-| Java       | Spring            | Web API      |
-| Java       | Cobertura         | Coverage     |
-| Java       | JUnit             | Unit test    |
-| Java       | JDBC              | ORM          |
+| Language   | Framework/Library | Purpose            |
+| ---------- | ----------------- | ------------------ |
+| C#         | XUnit             | Unit test          |
+| C#         | Entity Framework  | ORM                |
+| C#         | Swagger           | Web API docs       |
+| C#         | Serilog           | Structured logging |
+| JavaScript | Puppeteer         | E2E test           |
+| JavaScript | Jasmine           | Unit test          |
+| JavaScript | Karma             | Coverage           |
+| JavaScript | Angular           | Web client         |
+| JavaScript | Jquery            | Web client         |
+| JavaScript | Typescript        | Type safety        |
+| JavaScript | Angular Material  | Style              |
+| Node       | Mongoose          | ORM                |
+| Node       | Express           | Web API            |
+| CSS        | Bootstrap         | Style              |
+| Java       | Spring            | Web API            |
+| Java       | SLF4J             | Structured logging |
+| Java       | Cobertura         | Coverage           |
+| Java       | JUnit             | Unit test          |
+| Java       | JDBC              | ORM                |
 
 ### Favorite cloud services
 
