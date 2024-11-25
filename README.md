@@ -23,7 +23,7 @@ To make your life easier with reliable software.
 | Desktop  | ERP        | Legacy     | Stored procedures         | Windows forms + SqlServer   | On-prem |
 | Web      | Portal     | Greenfield | Document upload, REST     | Angular + Node + Oracle     | AWS     |
 | Desktop  | Data-entry | Legacy     | XML-based workflow engine | Java + Oracle               | On-prem |
-| Desktop  | 2D game    | Greenfield | Procedural bot behavior   | C#                          |         |
+| Desktop  | 2D game    | Greenfield | Procedural bot behavior   | Unity, C#                   |         |
 
 ### Favorite frameworks
 
