@@ -32,8 +32,8 @@ To make your life better with secure & reliable software.
 | ---------- | :-: | ------------------------- | --------------------- | -------- | ---------------- | ------- | -------------   |
 | C#         |  6  | XUnit                     | ASP.NET               | Swagger  | Entity Framework | Serilog | Nuget           |
 | Java       |  4  | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
-| JavaScript |  7  | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, npm |
-| NodeJS     |  1  |                           |                       | Express  | Mongoose         |         | npm             |
+| JavaScript |  7  | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, NPM |
+| NodeJS     |  1  |                           |                       | Express  | Mongoose         |         | NPM             |
 
 #### Other tools
 
