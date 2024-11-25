@@ -15,15 +15,15 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Project    | Value                   | Technical challenges                 | Technical features        | Stack                 | Host    |
-| ---------- | ----------------------- | ------------------------------------ | ------------------------- | --------------------- | ------- |
+| Project    | Value                   | Technical challenges              | Technical features        | Stack                    | Host    |
+| ---------- | ----------------------- | --------------------------------- | ------------------------- | ------------------------ | ------- |
 | Permitting | Replace mail process    | Brownfield: migrate IBM to Tomcat | External, MFA, map picker | JavaScript, JSP          | Azure   |
-| Data-entry | Record habitat metrics  | Brownfield: offline, VB re-write  | PWA, MFA                  | Angular, .NET, Oracle    | Azure   |
-| Real-time  | Brokerage live updates  | Greenfield: live notifications    | Websockets, pubsub        | Angular, .NET, SqlServer | On-prem |
+| Data-entry | Document habitat health | Brownfield: offline, VB re-write  | PWA, MFA                  | Angular, .NET, Oracle    | Azure   |
+| Real-time  | Account team service    | Greenfield: live notifications    | Websockets, pubsub        | Angular, .NET, SqlServer | On-prem |
 | ERP        | Logistics coordination  | Legacy: performance optimization  | Stored procedures         | Windows forms, SqlServer | On-prem |
 | Portal     | Data extraction         | Brownfield: Java applet re-write  | Document upload, REST     | Angular, Node, Oracle    | AWS     |
 | Data-entry | Key data from image     | Legacy: bug fixes, enhancements   | XML-based workflow engine | Java, Oracle             | On-prem |
-| 2D game    | Fun and entertainment   | Videogame development paradigm    | Procedural bot behavior   | Unity, C#                |         |
+| 2D game    | Entertainment           | Videogame development paradigm    | Procedural bot behavior   | Unity, C#                |         |
 
 ### Favorite frameworks
 
@@ -32,8 +32,10 @@ To make your life easier with reliable software.
 | .NET       | XUnit             | Unit test    |
 | .NET       | Entity Framework  | ORM          |
 | .NET       | Swagger           | Web API docs |
+| JavaScript | Puppeteer         | e2e test     |
 | JavaScript | Jasmine           | Unit test    |
 | JavaScript | Angular           | Web client   |
+| JavaScript | Jquery            | Web client   |
 | JavaScript | Angular Material  | Style        |
 | Node       | Mongoose          | ORM          |
 | Node       | Express           | Web API      |
