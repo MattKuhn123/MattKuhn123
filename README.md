@@ -28,11 +28,11 @@ To make your life better with secure & reliable software.
 
 ### Favorite frameworks, libraries and tools
 
-| Language   | Yrs | Testing                   | Client                | REST API | ORM              | Logging | Build           |
-| ---------- | :-: | ------------------------- | --------------------- | -------- | ---------------- | ------- | -------------   |
-| C#         |  6  | XUnit                     | ASP.NET               | Swagger  | Entity Framework | Serilog | Nuget           |
-| Java       |  5  | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
-| JavaScript |  8  | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, NPM |
+| Language   | Yrs | Testing                   | Client          | REST API | ORM              | Logging | Build           |
+| ---------- | :-: | ------------------------- | --------------- | -------- | ---------------- | ------- | -------------   |
+| C#         |  6  | XUnit                     | ASP.NET         | Swagger  | Entity Framework | Serilog | Nuget           |
+| Java       |  5  | JUnit, Cobertura          | JSP, Thymeleaf  | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
+| JavaScript |  8  | Jasmine, Puppeteer, Karma | Angular, jQuery |          |                  |         | TypeScript, NPM |
 
 Azure Devops, Tomcat, IIS, AWS EC2, AWS S3, Azure App Services, Azure App Insights, Azure Key Vault
 
