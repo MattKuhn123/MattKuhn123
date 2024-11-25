@@ -49,17 +49,11 @@ To make your life better with secure & reliable software.
 | Database        | Toad                  |
 | Database        | MS SQL Server Manager |
 | Database        | MySql Workbench       |
-
-### Favorite cloud services
-
-| Host  | Service      | Purpose              |
-| ----- | ------------ | -------------------- |
-| AWS   | EC2          | Web server           |
-| AWS   | Lambda       | Stateless processing |
-| AWS   | S3           | Storage              |
-| Azure | App Services | Web server           |
-| Azure | App Insights | Monitoring           |
-| Azure | Key Vault    | Secrets              |
+| Web server      | AWS EC2               |
+| Web storage     | AWS S3                |
+| Web server      | Azure App Services    |
+| Secrets         | Azure Key Vault       |
+| Monitoring      | Azure App Insights    |
 
 ### Skills
 
