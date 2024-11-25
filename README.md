@@ -39,6 +39,7 @@ To make your life easier with reliable software.
 
 | Function        | Tool                  |
 | --------------- | --------------------- | 
+| Documentation   | Markdown              |
 | Version control | Git                   |
 | DevOps          | Azure DevOps          |
 | IDE             | Visual Studio         |
