@@ -2,7 +2,7 @@
 
 Full stack software developer
 
-To make your life easier with reliable software.
+To make your life better with secure, reliable software.
 
 ### Experience
 
