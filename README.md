@@ -33,9 +33,6 @@ To make your life better with secure & reliable software.
 | C#         |  6  | XUnit                     | ASP.NET               | Swagger  | Entity Framework | Serilog | Nuget           |
 | Java       |  5  | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
 | JavaScript |  8  | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, NPM |
-| NodeJS     |  1  |                           |                       | Express  | Mongoose         |         | NPM             |
-
-#### Other tools
 
 Azure Devops, Tomcat, IIS, AWS EC2, AWS S3, Azure App Services, Azure App Insights, Azure Key Vault
 
