@@ -34,8 +34,8 @@ Full stack software developer - aiming to make your life better with secure & re
 
 ### Skills
 
-- Test-driven development
-- Clean code, pair programming
+- Test-driven development, clean code
+- Collaboration, pair programming
 - Azure DevOps, pipelines, devops
 - Web server and platform configuration
 - Monolithic or service-oriented architecture
