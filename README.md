@@ -28,12 +28,12 @@ To make your life better with secure & reliable software.
 
 ### Favorite frameworks, libraries and tools
 
-| Language   | Testing                   | Client                | REST API | ORM              | Logging | Build           |
-| ---------- | ------------------------- | --------------------- | -------- | ---------------- | ------- | -------------   |
-| C#         | XUnit                     | ASP.NET               | Swagger  | Entity Framework | Serilog | Nuget           |
-| Java       | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
-| JavaScript | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, npm |
-| NodeJS     |                           |                       | Express  | Mongoose         |         | npm             |
+| Language   | Yrs | Testing                   | Client                | REST API | ORM              | Logging | Build           |
+| ---------- | :-: | ------------------------- | --------------------- | -------- | ---------------- | ------- | -------------   |
+| C#         |  6  | XUnit                     | ASP.NET               | Swagger  | Entity Framework | Serilog | Nuget           |
+| Java       |  4  | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
+| JavaScript |  7  | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, npm |
+| NodeJS     |  1  |                           |                       | Express  | Mongoose         |         | npm             |
 
 #### Other tools
 
