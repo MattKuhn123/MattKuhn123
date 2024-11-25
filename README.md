@@ -15,15 +15,15 @@ To make your life easier with reliable software.
 
 ### Key accomplishments
 
-| Project    | Value                  | Technical challenges              | Technical features        | Stack               | Host    |
-| ---------- | ---------------------- | --------------------------------- | ------------------------- | ------------------- | ------- |
-| Permitting | Replace mail process   | Brownfield: migrate IBM - Tomcat | MFA, geography            | JavaScript JSP      | Azure   |
-| Data-entry | Report habitat health  | Brownfield: offline, VB re-write | PWA, MFA                  | Angular .NET Oracle | Azure   |
-| Real-time  | Account team service   | Greenfield: live notifications   | Websockets, pub-sub       | Angular .NET MSSQL  | On-prem |
-| ERP        | Coordinate logistics   | Legacy: optimize performance     | Stored procedures         | .NET forms, MSSQL   | On-prem |
-| Portal     | Data extraction        | Brownfield: Java applet re-write | Document upload           | Angular Node Oracle | AWS     |
-| Data-entry | Key data from image    | Legacy: bug fixes, features      | Workflow rules            | Java, Oracle        | On-prem |
-| 2D game    | Entertainment          | Game development paradigm        | Procedural bot behavior   | Unity, C#           |         |
+| Project    | Value                  | Technical challenges              | Technical features | Stack               | Host    |
+| ---------- | ---------------------- | --------------------------------- | -------------------| ------------------- | ------- |
+| Permitting | Replace mail process   | Brownfield: migrate IBM to Tomcat | MFA, geography      | JavaScript JSP      | Azure   |
+| Data-entry | Report habitat health  | Brownfield: offline, VB re-write  | PWA, MFA            | Angular .NET Oracle | Azure   |
+| Real-time  | Account team service   | Greenfield: live notifications    | Websockets, pub-sub | Angular .NET MSSQL  | On-prem |
+| ERP        | Coordinate logistics   | Legacy: optimize performance      | Stored procedures   | .NET forms, MSSQL   | On-prem |
+| Portal     | Data extraction        | Brownfield: Java applet re-write  | Document upload     | Angular Node Oracle | AWS     |
+| Data-entry | Key data from image    | Legacy: bug fixes, features       | Workflow rules      | Java, Oracle        | On-prem |
+| 2D game    | Entertainment          | New development paradigm          | Procedural behavior | Unity, C#           |         |
 
 ### Favorite frameworks
 
