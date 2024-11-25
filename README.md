@@ -28,15 +28,26 @@ To make your life easier with reliable software.
 
 ### Favorite frameworks, libraries and tools
 
-|            | Testing                   | Client                | REST API | ORM              | Logging | Build           | IDE           |
-| ---------- | ------------------------- | --------------------- | -------- | ---------------- | ------- | -------------   | ------------- |
-| C#         | XUnit                     | ASP.NET               | Swagger  | Entity Framework | Serilog | Nuget           | Visual Studio |
-| Java       | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   | VS Code       |
-| JavaScript | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, npm | VS Code       |
-| NodeJS     |                           |                       | Express  | Mongoose         |         | npm             | VS Code       |
-| SQL Server |                           |                       |          |                  |         |                 | SSMS          |
-| Oracle     |                           |                       |          |                  |         |                 | Toad          |
-| MySQL      |                           |                       |          |                  |         |                 | Workbench     |
+| Language   | Testing                   | Client                | REST API | ORM              | Logging | Build           |
+| ---------- | ------------------------- | --------------------- | -------- | ---------------- | ------- | -------------   |
+| C#         | XUnit                     | ASP.NET               | Swagger  | Entity Framework | Serilog | Nuget           |
+| Java       | JUnit, Cobertura          | JSP, Thymeleaf, Swing | Spring   | JDBC             | SLF4J   | Gradle, Maven   |
+| JavaScript | Jasmine, Puppeteer, Karma | Angular, jQuery       |          |                  |         | TypeScript, npm |
+| NodeJS     |                           |                       | Express  | Mongoose         |         | npm             |
+
+### Other tools
+
+| Function        | Tool                  |
+| --------------- | --------------------- | 
+| Version control | Git                   |
+| DevOps          | Azure DevOps          |
+| IDE             | Visual Studio         |
+| IDE             | VS Code               |
+| Platform        | Tomcat                |
+| Platform        | IIS                   |
+| Database        | Toad                  |
+| Database        | MS SQL Server Manager |
+| Database        | MySql Workbench       |
 
 ### Favorite cloud services
 
@@ -58,7 +69,3 @@ To make your life easier with reliable software.
 - Monolithic or service-oriented architecture
 - Pair programming
 - Refactoring, optimization & modernization
-
-### Favorite tools
-
-Git, Azure DevOps, Docker, Tomcat, IIS, Visual Studio, VS Code
