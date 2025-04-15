@@ -4,7 +4,7 @@ Web development consultant
 
 ## Languages
 
-🍵 java 🎺 groovy 😸 kotlin 🍃 spring 🤖 dotnet (framework, core) 🛡️ angular ⚡ vue 📦 relational databases  
+🍵 java, groovy, kotlin 🍃 spring 🤖 dotnet (framework, core) 🛡️ angular ⚡ vue 📦 relational databases
 
 ## Values 
 
@@ -12,9 +12,7 @@ Web development consultant
 
 ## Experience
 
-
 ### Great American Insurance (03/25)
-
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
