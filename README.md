@@ -8,7 +8,7 @@ Web development consultant
 
 ## Values 
 
-🍐 pair programming 🧪 test driven development 📋 documentation
+🍐 pair programming 🧪 test driven development 📋 automation
 
 ## Experience
 
