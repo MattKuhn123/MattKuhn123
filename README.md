@@ -24,7 +24,7 @@ Web development consultant
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
-| Permitting | Use TVA property       | WebSphere to Tomcat, MFA, map integration |
+| Permitting | Public use of TVA land | WebSphere to Tomcat, MFA, map integration |
 | Data-entry | Report habitat health  | Offline-mode, VB.NET re-write, MFA        |
 | CMS        | Parcel tracking        | Oracle to MySQL, MFA, CSV import          |
 
