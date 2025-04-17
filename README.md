@@ -1,6 +1,6 @@
 # Matt Kuhn
 
-Web development consultant
+Web software development consultant
 
 ## Languages
 
@@ -8,7 +8,7 @@ Web development consultant
 
 ## Values 
 
-🍐 pair programming 🧪 test driven development 📋 automation
+🍐 pair programming 🧪 test driven development 📋 automation 🕸️ native web technology
 
 ## Experience
 
@@ -45,3 +45,4 @@ Web development consultant
 | ---------- | ---------------------- | ----------------------------------------- |
 | Portal     | Data extraction        | java applet re-write, document upload     |
 | Data-entry | Key data from image    | workflow rules engines                    |
+
