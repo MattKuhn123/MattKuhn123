@@ -4,7 +4,7 @@ Web software development consultant
 
 ## Languages
 
-🍵 java 🍃 spring 🤖 dotnet (framework, core) 🛡️ angular ⚡ vue 📦 relational databases
+🍵 java (🍃 spring) 🤖 dotnet (framework, core) 🛡️ angular ⚡ vue 📦 relational databases
 
 ## Values 
 
