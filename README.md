@@ -6,9 +6,13 @@ Web software development consultant
 
 🍵 java (spring) 🤖 dotnet (framework, core) 🛡️ angular ⚡ vue 📦 relational databases
 
-## Values 
+## Specialities
 
-🍐 pair programming 🧪 test driven development 📋 automation 🕸️ native web technology
+🚀 modernization 🏎️ performance 🔒 security 💭 solutioning
+
+## Methods 
+
+❎ xtreme programming 🧪 test driven development 📋 automation
 
 ## Experience
 
@@ -16,7 +20,7 @@ Web software development consultant
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
-| Insurance  | Quote/rate/enrollment  | multi-tenant api, 3rd party integration   |
+| InsurTech  | Quote/rate/enrollment  | multi-tenant api, 3rd party integration   |
 
 ***
 
