@@ -26,11 +26,11 @@ Web software development consultant
 
 ### Tennessee Valley Authority (08/22 - 03/25)
 
-| Project    | Business value         | Technical challenges and features         |
-| ---------- | ---------------------- | ----------------------------------------- |
-| Permitting | Public use of TVA land | webSphere to tomcat, mfa, map integration |
-| Data-entry | Report habitat health  | offline-mode, vb.net re-write, mfa        |
-| CMS        | Parcel tracking        | oracle to mysql, mfa, csv import          |
+| Project    | Business value                 | Technical challenges and features         |
+| ---------- | ------------------------------ | ----------------------------------------- |
+| Permitting | Private use of public property | webSphere to tomcat, mfa, map integration |
+| Data-entry | Ecological reporting           | PWA, vb.net re-write, mfa                 |
+| CMS        | Parcel tracking                | oracle to mysql, mfa, csv import          |
 
 ***
 
