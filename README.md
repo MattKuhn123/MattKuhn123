@@ -2,17 +2,25 @@
 
 Software developer for the web since 2015. I aim to make the shortest & straightest line possible between what the client wants and what the technology does.
 
+***
+
 ## Languages
 
 🫘 **java** (spring)  ⁃  🤖 **dotnet** (framework, core)  ⁃  🟨 **javascript** (angular, vue)  ⁃  📦 **relational databases** (sql server, mysql)
+
+***
 
 ## Specializations
 
 🚀 modernization  ⁃  🏎️ performance  ⁃  🔒 security  ⁃  💭 solutions
 
+***
+
 ## Methods 
 
 ❎ xtreme programming  ⁃  🧪 test driven development  ⁃  📋 automation
+
+***
 
 ## Experience
 
