@@ -1,6 +1,8 @@
-# Matt Kuhn
+# Matt Kuhn - Software Developer
 
 _Making the shortest line between what the user wants and what the tech does since 2015._
+
+📞 (513) 675-7394 ⁃ ✉️ mlkkuhn@live.com ⁃ 🏠 3396 Cedar Tree Lane, Erlanger KY 41018
 
 ### Languages
 
@@ -20,13 +22,13 @@ B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 t
 
 ### Experience
 
-#### Great American Insurance (03/25)
+#### Great American Insurance (Cincinnati, OH -  03/25 thru Present)
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
 | InsurTech  | Quote/rate/enrollment  | multi-tenant api, 3rd party integration   |
 
-#### Tennessee Valley Authority (08/22 - 03/25)
+#### Tennessee Valley Authority (Knoxville, TN -  08/22 thru 03/25)
 
 | Project    | Business value                 | Technical challenges and features         |
 | ---------- | ------------------------------ | ----------------------------------------- |
@@ -34,14 +36,14 @@ B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 t
 | Data-entry | Ecological reporting           | PWA, vb.net re-write, mfa                 |
 | CMS        | Parcel tracking                | oracle to mysql, mfa, csv import          |
 
-#### Total Quality Logistics (10/18 - 06/20)
+#### Total Quality Logistics (Cincinnati, OH - 10/18 thru 06/20)
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
 | Real-time  | Account team services  | live notifications, websockets, pub-sub   |
 | ERP        | Coordinate logistics   | optimize performance, stored procedures   |
 
-#### Fidelity Investments (07/15 - 10/18)
+#### Fidelity Investments (Taylor Mill, KY - 07/15 thru 10/18)
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
