@@ -22,6 +22,12 @@ Software developer for the web since 2015. I aim to make the shortest & straight
 
 ***
 
+## Hobbies/Other 
+
+🎼 music  ⁃  🌾 lawn  ⁃  👨 dad/husband
+
+***
+
 ## Experience
 
 ### Great American Insurance (03/25)
