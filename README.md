@@ -8,11 +8,11 @@ _Making the shortest line between what the user wants and what the tech does sin
 
 🫘 java (spring)  ⁃  🤖 .net (framework, core)  ⁃  🟨 javascript (angular, vue)  ⁃  📦 databases (sql server, mysql)
 
-### Skills
+### Skills / Priorities
 
-🚀 modernization  ⁃  🏎️ performance  ⁃  🔒 security  ⁃  ❎ xtreme programming  ⁃  🧪 test driven development  ⁃  📋 automation  ⁃  🛠️ pragmatic solutions
+🚀 modernization  ⁃  🏎️ performance  ⁃  🔒 security  ⁃  ❎ xtreme programming  ⁃  🧪 test driven development  ⁃  📋 automation  ⁃  🛠️ pragmatic solutions  ⁃  🏢 on-site
 
-### Hobbies/Other 
+### Hobbies / Other 
 
 🎼 music  ⁃  🌾 lawn  ⁃  👨 dad & husband
 
