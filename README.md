@@ -2,7 +2,7 @@
 
 _Making the straightest line of software between users' wants and needs since 2015._
 
-📞 (513) 675-7394 ⁃ ✉️ mlkkuhn@live.com ⁃ 🏠 3396 Cedar Tree Lane, Erlanger KY 41018
+📞 (513) 675-7394 ⁃ ✉️ mlkkuhn@live.com ⁃ 🏠 3396 Cedar Tree Lane, Erlanger, KY 41018
 
 ### Languages
 
@@ -28,7 +28,7 @@ B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 t
 | ---------- | ---------------------- | ----------------------------------------- |
 | InsurTech  | Quote/rate/enrollment  | multi-tenant api, 3rd party integration   |
 
-#### Tennessee Valley Authority (Knoxville TN -  08/22 thru 03/25)
+#### Tennessee Valley Authority (Knoxville, TN -  08/22 thru 03/25)
 
 | Project    | Business value                 | Technical challenges and features         |
 | ---------- | ------------------------------ | ----------------------------------------- |
