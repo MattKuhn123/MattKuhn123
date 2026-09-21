@@ -10,7 +10,7 @@ _Making the shortest line between what the user wants and what the tech does sin
 
 ### Skills
 
-🚀 modernization  ⁃  🏎️ performance  ⁃  🔒 security  ⁃  ❎ xtreme programming  ⁃  🧪 test driven development  ⁃  📋 automation
+🚀 modernization  ⁃  🏎️ performance  ⁃  🔒 security  ⁃  ❎ xtreme programming  ⁃  🧪 test driven development  ⁃  📋 automation  ⁃  🛠️ pragmatic solutions
 
 ### Hobbies/Other 
 
@@ -28,7 +28,7 @@ B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 t
 | ---------- | ---------------------- | ----------------------------------------- |
 | InsurTech  | Quote/rate/enrollment  | multi-tenant api, 3rd party integration   |
 
-#### Tennessee Valley Authority (Knoxville, TN -  08/22 thru 03/25)
+#### Tennessee Valley Authority (Knoxville TN -  08/22 thru 03/25)
 
 | Project    | Business value                 | Technical challenges and features         |
 | ---------- | ------------------------------ | ----------------------------------------- |
