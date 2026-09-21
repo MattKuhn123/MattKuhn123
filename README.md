@@ -20,7 +20,7 @@ _Making the shortest line between what the user wants and what the tech does sin
 
 B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 to December 2015
 
-### Experience
+### Highlighted Experience
 
 #### Great American Insurance (Cincinnati, OH -  03/25 thru Present)
 
