@@ -1,6 +1,6 @@
 # Matt Kuhn
 
-Web software development consultant. I aim to make the shortest & straightest line possible between what the client wants and what the technology does.
+Software developer for the web since 2015. I aim to make the shortest & straightest line possible between what the client wants and what the technology does.
 
 ## Languages
 
