@@ -1,18 +1,18 @@
 # Matt Kuhn
 
-Web software development consultant
+Web software development consultant. 
 
 ## Languages
 
-🍵 java (spring) 🤖 dotnet (framework, core) 🛡️ angular ⚡ vue 📦 relational databases
+--- java (spring) --- dotnet (framework, core) --- angular --- vue --- relational databases
 
 ## Specialities
 
-🚀 modernization 🏎️ performance 🔒 security 💭 solutioning
+--- modernization --- performance --- security --- solutioning
 
 ## Methods 
 
-❎ xtreme programming 🧪 test driven development 📋 automation
+--- xtreme programming --- test driven development --- automation
 
 ## Experience
 
