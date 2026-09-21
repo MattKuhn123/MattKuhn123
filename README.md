@@ -1,44 +1,32 @@
 # Matt Kuhn
 
-Software developer for the web since 2015. I aim to make the shortest & straightest line possible between what the client wants and what the technology does.
+_Making the shortest line between what the user wants and what the tech does since 2015._
 
-***
+### Languages
 
-## Languages
+🫘 java (spring)  ⁃  🤖 .net (framework, core)  ⁃  🟨 javascript (angular, vue)  ⁃  📦 databases (sql server, mysql)
 
-🫘 **java** (spring)  ⁃  🤖 **dotnet** (framework, core)  ⁃  🟨 **javascript** (angular, vue)  ⁃  📦 **relational databases** (sql server, mysql)
+### Skills
 
-***
+🚀 modernization  ⁃  🏎️ performance  ⁃  🔒 security  ⁃  ❎ xtreme programming  ⁃  🧪 test driven development  ⁃  📋 automation
 
-## Specializations
-
-🚀 modernization  ⁃  🏎️ performance  ⁃  🔒 security  ⁃  💭 solutions
-
-***
-
-## Methods 
-
-❎ xtreme programming  ⁃  🧪 test driven development  ⁃  📋 automation
-
-***
-
-## Hobbies/Other 
+### Hobbies/Other 
 
 🎼 music  ⁃  🌾 lawn  ⁃  👨 dad/husband
 
-***
+### Education
 
-## Experience
+B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 to December 2015
 
-### Great American Insurance (03/25)
+### Experience
+
+#### Great American Insurance (03/25)
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
 | InsurTech  | Quote/rate/enrollment  | multi-tenant api, 3rd party integration   |
 
-***
-
-### Tennessee Valley Authority (08/22 - 03/25)
+#### Tennessee Valley Authority (08/22 - 03/25)
 
 | Project    | Business value                 | Technical challenges and features         |
 | ---------- | ------------------------------ | ----------------------------------------- |
@@ -46,21 +34,16 @@ Software developer for the web since 2015. I aim to make the shortest & straight
 | Data-entry | Ecological reporting           | PWA, vb.net re-write, mfa                 |
 | CMS        | Parcel tracking                | oracle to mysql, mfa, csv import          |
 
-***
-
-### Total Quality Logistics (10/18 - 06/20)
+#### Total Quality Logistics (10/18 - 06/20)
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
 | Real-time  | Account team services  | live notifications, websockets, pub-sub   |
 | ERP        | Coordinate logistics   | optimize performance, stored procedures   |
 
-***
-
-### Fidelity Investments (07/15 - 10/18)
+#### Fidelity Investments (07/15 - 10/18)
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
 | Portal     | Data extraction        | java applet re-write, document upload     |
 | Data-entry | Key data from image    | workflow rules engines                    |
-
