@@ -12,7 +12,7 @@ _Making the shortest line between what the user wants and what the tech does sin
 
 ### Hobbies/Other 
 
-🎼 music  ⁃  🌾 lawn  ⁃  👨 dad/husband
+🎼 music  ⁃  🌾 lawn  ⁃  👨 dad & husband
 
 ### Education
 
