@@ -32,7 +32,7 @@ B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 t
 
 | Project    | Business value                 | Technical challenges and features         |
 | ---------- | ------------------------------ | ----------------------------------------- |
-| Permitting | Private use of public property | webSphere to tomcat, mfa, map integration |
+| Permitting | Real estate                    | webSphere to tomcat, mfa, map integration |
 | Data-entry | Ecological reporting           | PWA, vb.net re-write, mfa                 |
 | CMS        | Parcel tracking                | oracle to mysql, mfa, csv import          |
 
