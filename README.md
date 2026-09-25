@@ -2,25 +2,25 @@
 
 _Making the straightest line of software between users' wants and needs since 2015._
 
-📞 (xxx) xxx-xxxx ⁃ ✉️ xxxxxxx@xxxx.com ⁃ 🏠 xxxx xxxxx xxxx xxxx, xxxxxxxx, xx xxxxx
+(xxx) xxx-xxxx ⁃ xxxxxxx@xxxx.com ⁃ xxxx xxxxx xxxx xxxx, xxxxxxxx, xx xxxxx
 
 ### Languages
 
-🫘 java (spring)  ⁃  🤖 .net (framework, core)  ⁃  🟨 javascript (angular, vue)  ⁃  📦 databases (sql server, mysql)
+java (spring)  ⁃  .net (framework, core)  ⁃  javascript (angular, vue)  ⁃  databases (sql server, mysql)
 
 ### Skills / Priorities
 
-🚀 modernization  ⁃  🏎️ performance  ⁃  🔒 security  ⁃  ❎ xtreme programming  ⁃  🧪 test driven development  ⁃  📋 automation  ⁃  🛠️ pragmatic solutions  ⁃  🏢 on-site
+modernization  ⁃  performance  ⁃  security  ⁃  xtreme programming  ⁃  test driven development  ⁃  automation  ⁃  pragmatic solutions
 
 ### Hobbies / Other 
 
-🎼 music  ⁃  🌾 lawn  ⁃  👨 dad & husband
+music  ⁃  lawn  ⁃  dad  ⁃  husband
 
 ### Education
 
 B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 to December 2015
 
-### Highlighted Experience
+### Software Engineering Experience
 
 #### Great American Insurance (Cincinnati, OH -  03/25 thru Present)
 
