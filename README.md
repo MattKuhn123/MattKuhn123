@@ -2,7 +2,7 @@
 
 _Making the straightest line of software between users' wants and needs since 2015._
 
-📞 (513) 675-7394 ⁃ ✉️ mlkkuhn@live.com ⁃ 🏠 3396 Cedar Tree Lane, Erlanger, KY 41018
+📞 (xxx) xxx-xxxx ⁃ ✉️ xxxxxxx@xxxx.com ⁃ 🏠 xxxx xxxxx xxxx xxxx, xxxxxxxx, xx xxxxx
 
 ### Languages
 
