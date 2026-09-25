@@ -47,5 +47,5 @@ B.Sc. in Computer Science - Northern Kentucky University - 08/11 thru 05/15
 
 ### Hobbies / Other 
 
-music  -  lawn  -  dad  -  husband
+music  -  lawn  -  dad  -  husband  -  church
 
