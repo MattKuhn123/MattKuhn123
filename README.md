@@ -18,7 +18,7 @@ music  ⁃  lawn  ⁃  dad  ⁃  husband
 
 ### Education
 
-B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 to December 2015
+B.Sc. in Computer Science ⁃ Northern Kentucky University ⁃ 08/11 thru 05/15
 
 ### Software Engineering Experience
 
@@ -26,7 +26,7 @@ B.Sc. in Computer Science ⁃ University of Northern Kentucky ⁃ January 2011 t
 
 | Project    | Business value         | Technical challenges and features         |
 | ---------- | ---------------------- | ----------------------------------------- |
-| InsurTech  | Quote/rate/enrollment  | multi-tenant api, 3rd party integration   |
+| InsurTech  | rate/track/enroll      | multi-tenant api, 3rd party integration   |
 
 #### Tennessee Valley Authority (Knoxville, TN -  08/22 thru 03/25)
 
