@@ -1,6 +1,6 @@
 # Matt Kuhn - Software Developer
 
-_Making the straightest line of software between users' wants and needs since 2015._
+_Making the straightest line of software to fulfill users' needs since 2015._
 
 (xxx) xxx-xxxx ⁃ xxxxxxx@xxxx.com ⁃ xxxx xxxxx xxxx xxxx, xxxxxxxx, xx xxxxx
 
