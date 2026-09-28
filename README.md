@@ -4,13 +4,9 @@ _Making the straightest line of software for useful automations needs since 2015
 
 (xxx) xxx-xxxx - xxxx.xxxx@xxxxxxxxxxxxxx.com - xxxxxxxx, xx
 
-### Languages (Frameworks) & Tools
+### Languages (Frameworks), Tools, & Skills
 
-Java (Spring)  -  .NET (Framework, Core)  -  Javascript (Angular, Vue)  -  databases (SQL Server, MySql, Oracle)  -  AI (OpenSpec)  -  Postman  -  Docker  -  VS Code  -  IntelliJ  -  SSMS  -  Toad - MySql Workbench
-
-### Skills
-
-performance  -  security  -  xtreme programming  -  test driven development  -  automation  -  pragmatic solutions
+Java (Spring)  -  .NET (Framework, Core)  -  Javascript (Angular, Vue)  -  databases (SQL Server, MySql, Oracle)  -  AI (OpenSpec)  -  Postman  -  Docker  -  VS Code  -  IntelliJ  -  SSMS  -  Toad - MySql Workbench  -  application performance  -  security  -  xtreme programming  -  test driven development  -  automation  -  pragmatic solutions
 
 ### Software Development Experience
 
@@ -40,6 +36,11 @@ performance  -  security  -  xtreme programming  -  test driven development  -  
 | ---------- | ------------------------ | ---------------------- | --------------------------------------- |
 | Portal     | Spring+Angular           | Data extraction        | java applet re-write, doc upload        |
 | Data-entry | Spring+Java Swing+Oracle | Key from image         | workflow rules engine                   |
+
+### Other Experience
+
+- "Sensei" (teacher) with Code Ninjas (Cincinnati, OH - 07/20 thru 07/22)
+- Adjunct professor & tutor at KCTCS (Florence, KY - 07/20 thru 07/22)
 
 ### Education
 
